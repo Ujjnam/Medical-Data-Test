@@ -1,8 +1,0 @@
-OrderID:101;Customer:RAJESH;City:BENGALURU;Amount:12000
-OrderID:102;Customer:MEERA;City:MUMBAI;Amount:29000
-OrderID:103;Customer:VIJAY;City:DELHI;Amount:29000
-OrderID:104;Customer:PRIYANKA;City:MUMBAI;Amount:2500
-OrderID:105;Customer:ARUN;City:CHENNAI;Amount:700
-OrderID:106;Customer:SUNITA;City:HYDERABAD;Amount:12000
-OrderID:107;Customer:ANKIT;City:MUMBAI;Amount:29000
-OrderID:108;Customer:AMRUTHA;City:DELHI;Amount:700
